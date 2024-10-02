@@ -1,6 +1,7 @@
 package tn.esprit.spring.entities;
 
-// test git modification 
+// test git modification
+// second modif
 import java.io.Serializable;
 import java.util.Date;
 
